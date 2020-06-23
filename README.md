@@ -13,6 +13,12 @@ With customer segmentation, we can see that the core customer base of this compa
 
 We should focus our campaign on people who share these characteristics as they are most likely to purchase our products.
 
+It is also worth mentioning that  we successfully reduced 192 features to just 43 components with PCA and made some pretty interesting discoveries, which helped us understand our customer better.
+
+- There is a negative relationship between income and mobility
+- People who are more than 60 years old tend to be religious and traditional-minded and have a low affinity with event-oriented and sensual-minded individuals.
+- Personality traits such as *dreamful*, *family-minded*, *socially-mind*, and *cultural-minded* are closely related to each other but have a negative correlation with *combative attitude*, *dominant-minde*d, *critical-minded*, and *event-oriented*.
+
 ## Source
 Customer data provided by Bertelsmann partners AZ Direct and Arvato Finance Solution
 
